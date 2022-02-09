@@ -1,0 +1,11 @@
+############### PROJECT-SPECIFIC ###############
+
+######## COMING SOON ########
+
+
+###############      GENERAL     ###############
+
+__pycache__/
+
+# @CHATALOT1 (on Github)'s Text Editor config
+.vscode/
